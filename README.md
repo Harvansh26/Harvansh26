@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer | DevOps | CI/CD | Docker | Kubernetes | AWS | React | Node.js | REST APIs | System Design | Scalable Applications
+Full Stack Developer | DevOps | CI/CD | Docker | Kubernetes | AWS | React | Node.js | REST APIs | System Design | Scalable Applications.
 
 
 ## 🌐 Socials:
